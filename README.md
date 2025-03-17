@@ -10,7 +10,8 @@ Greetings, this is a game titled SmartyTown, developed using Godot in collaborat
 
 - This is the interface that appears upon launching the game.
 
-![image](https://github.com/user-attachments/assets/cb7f5989-a47d-4257-98fc-01fa00175284)
+![image](https://github.com/user-attachments/assets/6f7528e0-a9ab-4790-ad8e-d7e976e4fa6a)
+
 
 - Upon clicking the `Start` button, you will initiate your journey, where you will encounter various elements such as inventory, the main character, and NPCs. While these buttons are designed for the Android version, they are also accessible for PC users. You are now encouraged to explore further to discover more.
 

@@ -22,5 +22,6 @@ Greetings, this is a game titled SmartyTown, developed using Godot in collaborat
   - In the game, the wheat and tomatoes will mature in three days.
   - The `Skip` button is to go to the next dialogue with a NPC while you are talking with him.
 
-
+### Credits
+- Rapid Vectors on youtube for the main tutorial
 
